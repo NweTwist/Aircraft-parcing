@@ -1,0 +1,37 @@
+callsign,icao,model,airline,departure,arrival,timestamp,latitude,longitude,altitude,speed,heading
+U25736,EZY5736,40768B,easyJet,Galileo Galilei,Southend,2025-04-04 16:17:26,51.5189,0.5787,533.4,,54
+AC867,ACA867,C038CA,Air Canada,Heathrow,Pierre Elliott Trudeau International,2025-04-04 16:17:26,53.9222,-57.2177,11582.4,,239
+EY62,ETD62,89649D,Etihad Airways,Heathrow,Abu Dhabi International,2025-04-04 16:17:26,32.2359,34.4069,11887.2,,116
+MS784,MSR784,01020A,EgyptAir,Heathrow,Cairo International Airport,2025-04-04 16:17:26,33.66,28.8099,11277.6,,136
+BA65,BAW65,4076E8,British Airways,Heathrow,Jomo Kenyatta International,2025-04-04 16:17:26,27.4369,30.6729,11887.2,,141
+GF2,GFA2,89408C,Gulf Air,Heathrow,Bahrain International,2025-04-04 16:17:26,39.485,39.2036,11879.6,,116
+SV110,SVA110,710064,Saudia,Heathrow,King Khaled International,2025-04-04 16:17:26,34.6181,29.5825,10668.0,,142
+TC112,ATC112,08009B,Air Tanzania,Dar Es Salam International Airport,Nduli,2025-04-04 16:17:26,-7.5664,36.3122,7322.82,,260
+KM101,KMM101,4D22AB,KM Malta Airlines,Heathrow,Malta International,2025-04-04 16:17:26,35.788,14.5639,419.1,,314
+G52763,HXA2763,781BCE,China Express Air,Chongqing Jiangbei International,None,2025-04-04 16:17:26,27.066,110.242,3901.44,,129
+CZ6432,CSN6432,781126,China Southern Airlines,Chongqing Jiangbei International,Urumqi,2025-04-04 16:17:26,43.9013,87.4467,670.56,,73
+AA173,AAL173,AACAA5,American Airlines,Heathrow,Raleigh-durham International Airport,2025-04-04 16:17:26,54.5693,-51.6282,10972.8,,237
+IX2012,AXB2012,800D8B,Air India Express,Borjhar,Bangalore International Airport,2025-04-04 16:17:26,23.4361,87.5943,10972.8,,220
+VTM289,VTM289,0D0AF3,Aeronaves TSM,Laredo International Airport,Toledo Express,2025-04-04 16:17:26,41.5588,-83.9009,464.82,,63
+A81304,AMF1304,A8E60E,Ameriflight,Capital City,Chippewa County,2025-04-04 16:17:26,46.2142,-84.4433,335.28,,331
+QR290,QTR290,06A041,Qatar Airways,Prague Vaclav Havel Airport,Doha International,2025-04-04 16:17:26,28.5654,49.2538,11887.2,,150
+FX5217,FDX5217,AC1846,FedEx,Istanbul Airport,Liege Airport,2025-04-04 16:17:26,47.3959,17.6928,10363.2,,301
+UA193,UAL193,A3A0ED,United Airlines,Babelthuap/Koror,Ninoy Aquino International,2025-04-04 16:17:26,9.2568,129.977,9753.6,,295
+JL974,JAL974,862250,Japan Airlines,Ishigaki,Haneda Airport,2025-04-04 16:17:26,35.4526,139.845,548.64,,334
+B62338,JBU2338,A3795A,JetBlue Airways,Cibao International Airport,John F Kennedy International,2025-04-04 16:17:26,35.0056,-71.3239,10972.8,,344
+DL1993,DAL1993,A6CE7D,Delta Air Lines,Cibao International Airport,John F Kennedy International,2025-04-04 16:17:26,37.021,-75.9318,10652.8,,60
+AC813,ACA813,C051E6,Air Canada,Lisbon Portela,Pierre Elliott Trudeau International,2025-04-04 16:17:26,47.3912,-24.0666,11582.4,,294
+NH374,ANA374,868B50,ANA,Nagasaki,Chu-Bu Centrair International (Central Japan International),2025-04-04 16:17:26,34.8428,136.809,0.0,,348
+Y41052,VOI1052,0D0FA3,Volaris,Don Miguel Hidalgo y Costilla International,Cancún International,2025-04-04 16:17:26,21.3206,-89.9189,11277.6,,87
+LO6509,LOT6509,48AE85,LOT - Polish Airlines,Frederic Chopin,Agadir Almassira,2025-04-04 16:17:26,35.0908,-5.8002,11277.6,,214
+HB857,HGB857,78928D,Greater Bay Airlines,Tunxi,Hong Kong International,2025-04-04 16:17:26,24.1718,114.033,9784.08,,200
+G52633,HXA2633,7809CE,China Express Air,Chongqing Jiangbei International,None,2025-04-04 16:17:26,29.958,108.817,3901.44,,173
+DZ6309,EPA6309,780EE7,Donghai Airlines,Zhuhai Airport,Yichang,2025-04-04 16:17:26,29.8926,111.634,4861.56,,10
+MU2468,CES2468,780C4C,China Eastern Airlines,Fuzhou,Yichang,2025-04-04 16:17:26,30.4974,111.979,4206.24,,266
+PG261,BKP261,884207,Bangkok Airways,Suvarnabhumi International,Krabi,2025-04-04 16:17:26,8.5418,99.3139,3863.34,,188
+BI822,RBA822,895059,Royal Brunei Airlines,Kota-Kinabalu International Airport,Bandar Seri Begwan International Airport,2025-04-04 16:17:26,4.9457,114.932,0.0,,104
+SQ32,SIA32,76CDB6,Singapore Airlines,Singapore Changi,San Francisco International,2025-04-04 16:17:26,40.9958,-149.796,11889.6,,92
+NF306,AVN306,XXC,Air Vanuatu,Bauerfield,Pekoa,2025-04-04 16:17:26,-16.3669,167.685,4884.42,,350
+CZ6811,CSN6811,780FD8,China Southern Airlines,Urumqi,Hotan,2025-04-04 16:17:26,37.4846,79.9139,4191.0,,184
+JT781,LNI781,8A1812,Lion Air,Mutiara,Hasanudin,2025-04-04 16:17:26,-3.7836,118.868,8839.2,,151
+GS6471,GCR6471,7805A2,Tianjin Airlines,Guiyang,Yichang,2025-04-04 16:17:26,30.5407,110.964,5692.14,,82
